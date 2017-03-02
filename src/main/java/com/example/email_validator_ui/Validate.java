@@ -11,8 +11,7 @@ public class Validate {
 		dotChar = 0;
 		//counter for # of rules passed
 		rulesPassed = 0;
-		
-		
+			
 		//custom rule 1
 		//email addresses must not contain the # symbol
 		hashtagChar = 0;
